@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.bundle.js",
-    "start": "node your-script.js"
+    "start": "node your-script.js",
     "build": "webpack",
     "dev": "nodemon ./server.js localhost 3080"
   },
