@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/react-nodejs-example.git"
+    "url": "git+https://github.com/rahulguptaft9/react-nodejs-example.git"
   },
   "author": "Bhargav Bachina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/react-nodejs-example/issues"
+    "url": "https://github.com/rahulguptaft9/react-nodejs-example/issues"
   },
-  "homepage": "https://github.com/bbachi/react-nodejs-example#readme",
+  "homepage": "https://github.com/rahulguptaft9/react-nodejs-example#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.4"
